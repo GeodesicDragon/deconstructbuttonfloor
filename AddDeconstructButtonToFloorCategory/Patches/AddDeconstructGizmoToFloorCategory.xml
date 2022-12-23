@@ -1,0 +1,10 @@
+<Patch>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/DesignationCategoryDef[defName="Floors"]/specialDesignatorClasses</xpath>
+		<value>
+			<li>Designator_Deconstruct</li>
+		</value>
+	</Operation>
+
+</Patch>
